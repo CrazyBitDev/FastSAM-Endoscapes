@@ -1,3 +1,14 @@
 # endoscapes2023 dataset
 endoscapes.zip
 endoscapes/
+dataset/
+
+# weights
+weights/
+# output dir
+output/
+# wandb log dir
+wandb/
+
+*.csv
+*.png
